@@ -1,0 +1,8 @@
+{
+  "name": "token-contract",
+  "packageManager": "yarn@4.2.2",
+  "devDependencies": {
+    "@types/mocha": "^10",
+    "mocha": "^10.4.0"
+  }
+}
